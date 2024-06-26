@@ -1,5 +1,5 @@
 {
-	"name"        :  "geoip-lite",
+	"name"        :  "@amikem/geoip-lite",
 	"version"     :  "1.4.10",
 	"description" :  "A light weight native JavaScript implementation of GeoIP API from MaxMind",
 	"keywords"    :  ["geo", "geoip", "ip", "ipv4", "ipv6", "geolookup", "maxmind", "geolite"],
@@ -33,7 +33,7 @@
 		"nodeunit": "^0.11.2"
 	},
 "publishConfig": {
-    "registry": "@amikem:registry=https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
 	"license": "Apache-2.0"
 }

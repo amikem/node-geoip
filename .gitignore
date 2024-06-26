@@ -4,3 +4,5 @@ npm-debug.log
 
 # JetBrains IDE project files
 /.idea/
+.npmrc
+/lib
